@@ -4,7 +4,6 @@ import { typeDefs } from './schema.js';
 
 const PORT = 3000
 
-
 const server = new ApolloServer({
     typeDefs,
 
