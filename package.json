@@ -1,0 +1,21 @@
+{
+  "name": "graphql",
+  "version": "1.0.0",
+  "description": "learning graphl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tacheraSasi/graphql-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tacheraSasi/graphql-js/issues"
+  },
+  "homepage": "https://github.com/tacheraSasi/graphql-js#readme",
+  "type": "module"
+}
