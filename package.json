@@ -17,5 +17,9 @@
     "url": "https://github.com/tacheraSasi/graphql-js/issues"
   },
   "homepage": "https://github.com/tacheraSasi/graphql-js#readme",
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "@apollo/server": "^4.12.1",
+    "graphql": "^16.11.0"
+  }
 }
