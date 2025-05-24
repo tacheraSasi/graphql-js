@@ -1,2 +1,2 @@
 # graphql-js
-learning graphl
+learning graphql
